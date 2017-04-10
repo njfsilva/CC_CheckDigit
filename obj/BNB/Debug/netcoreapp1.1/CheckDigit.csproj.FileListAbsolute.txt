@@ -1,0 +1,8 @@
+c:\Users\nelson.silva\Desktop\CheckDigit\bin\BNB\Debug\netcoreapp1.1\CheckDigit.deps.json
+c:\Users\nelson.silva\Desktop\CheckDigit\bin\BNB\Debug\netcoreapp1.1\CheckDigit.runtimeconfig.json
+c:\Users\nelson.silva\Desktop\CheckDigit\bin\BNB\Debug\netcoreapp1.1\CheckDigit.runtimeconfig.dev.json
+c:\Users\nelson.silva\Desktop\CheckDigit\bin\BNB\Debug\netcoreapp1.1\CheckDigit.dll
+c:\Users\nelson.silva\Desktop\CheckDigit\bin\BNB\Debug\netcoreapp1.1\CheckDigit.pdb
+c:\Users\nelson.silva\Desktop\CheckDigit\obj\BNB\Debug\netcoreapp1.1\CheckDigit.AssemblyInfo.cs
+c:\Users\nelson.silva\Desktop\CheckDigit\obj\BNB\Debug\netcoreapp1.1\CheckDigit.dll
+c:\Users\nelson.silva\Desktop\CheckDigit\obj\BNB\Debug\netcoreapp1.1\CheckDigit.pdb
