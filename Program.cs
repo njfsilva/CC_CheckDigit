@@ -6,7 +6,7 @@ namespace CheckDigit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(calc_check_digit("13361938"));
+            Console.WriteLine(calc_check_digit(args[0]));
         }
 
         static int calc_check_digit(string BI)
